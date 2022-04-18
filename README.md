@@ -40,14 +40,17 @@ Proceso de buscar. Se puede Buscar un registro por su número de vuelo (Filtro s
 
 Paso 7: Modulo Vuelos: En este módulo se podrá visualizar los vuelos que se hallan registrados desde el administrador solo realizamos click sobre el botón Vuelos y nos mostrara los datos.
 
+Nota: Al siguiente correo claudia.giraldo@carvajal.com fue enviado un video con el funcionamiento de la aplicación, en este también se adjuntó un archivo txt donde se resalta aspectos relevantes a tener en cuenta en el video.
+
  *******  Entidades  ********
  Areolineas
  Ciudades
  Estado
  Usuario
  Vuelos
- 
- * Para esta aplicación se realizó su respectivo modelos relación entidad, el cual se puede observar en el Database Diagrama al restaurar el backup.
+
+
+
 
 
  
